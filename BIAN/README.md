@@ -10,6 +10,6 @@ Ce domaine est pour moi un champ de découvertes sans cesse renouvellé. J'aime 
 ## Ce que j'aime d'enseigner la muséologie en TIM
 Permettre aux étudiants d'aiguiser leur regard sur les oeuvres et dispositifs multimédias en exposition et qu'ils et elles voient tous les petits éléments à soigner dans la mise en exposition pour une meilleure expérience des visiteurs. J'ai hâte de vous faire découvrir l'envers du décor muséologique.
 
-![entrerArsenal](https://user-images.githubusercontent.com/112128474/219437312-9081cc17-4b06-431f-9589-9879a7ccffca.jpeg)
+![entrerArsenal2](https://user-images.githubusercontent.com/112128474/219438308-eeece3a9-3e76-45ac-b24e-3a979081edb2.png)
 
 Photo prise devant l'entrer de la galerie de l'art contemporain d'Arsenal lors de notre dernières sortie en groupe de classe.
