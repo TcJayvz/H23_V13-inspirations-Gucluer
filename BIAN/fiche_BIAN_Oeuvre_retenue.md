@@ -1,13 +1,15 @@
 # Résonance (2021)
 
-![entrerArsenal2](https://user-images.githubusercontent.com/112128474/219438308-eeece3a9-3e76-45ac-b24e-3a979081edb2.png)
-Photo prise devant l'entrer de la galerie de l'art contemporain d'Arsenal lors de notre dernières sortie en groupe de classe.
 
 Photo prise devant l'oeuvre de *Digital Art Biennial* de Louis-Philippe Rondeau, BIAN, février 2023
 
 ## Lieu de mise en exposition
 
 Arsenal art contemporain, 2020 William, Montréal, Qc
+
+![entrerArsenal2](https://user-images.githubusercontent.com/112128474/219438308-eeece3a9-3e76-45ac-b24e-3a979081edb2.png)
+
+Photo prise devant l'entrer de la galerie de l'art contemporain d'Arsenal lors de notre dernières sortie en groupe de classe.
 
 ## Intérêts dans le domaine du multimédia
 Ce domaine est pour moi un champ de découvertes sans cesse renouvellé. J'aime la créativité et le caractère innovateur que le numérique apporte aux artistes. En exposition, le multimédia est un support qui permet aux visiteurs de s'engager et d'entrer en relation avec divers contenus.
