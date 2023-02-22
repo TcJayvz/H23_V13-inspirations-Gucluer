@@ -75,6 +75,15 @@ abyme temporelle.
 
 Type d'installation: intéraction
 
+![GrandeVue](https://user-images.githubusercontent.com/112128474/220769608-aec2331c-060d-4b43-82c8-560fca51d46d.png)
+
+## Mise en espace
+
+C'est l'une des premières oeuvre qu'on voit lorsqu'on rentre dans la salle sombre avec sa forme triangulaire, qui est dirigé à la gauche de la salle.
+
+![Capture](https://user-images.githubusercontent.com/112128474/220783976-29ddcbd1-4351-421d-8640-1d49f56f5e0b.PNG)
+
+
 ![moiYavuz](https://user-images.githubusercontent.com/112128474/219435617-1322e50b-aaa7-490a-96f0-58e0aeb5972a.png)
 
 Photo prise devant l'oeuvre de *Digital Art Biennial* de Louis-Philippe Rondeau, BIAN, février 2023
