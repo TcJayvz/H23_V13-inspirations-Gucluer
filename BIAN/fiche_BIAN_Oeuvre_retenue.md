@@ -65,7 +65,11 @@ abyme temporelle.
 
 ![Description](https://user-images.githubusercontent.com/112128474/220764713-18a9e161-aaca-4553-bdf9-3ad8b425a57b.png)
 
+![Vue1](https://user-images.githubusercontent.com/112128474/220765879-361f7d81-4d14-4c60-8bac-ce71ac28b23d.png)
 
+![Vue2](https://user-images.githubusercontent.com/112128474/220765915-15a46e2b-b436-4fa3-b01e-b3b85fc33354.png)
+
+![Vue3](https://user-images.githubusercontent.com/112128474/220765933-eb2b6fa0-8433-4d4a-9b42-0fc5732c5f92.png)
 
 ## Types d'installation
 
