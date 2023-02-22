@@ -38,8 +38,7 @@ L'oeuvre a été réaliser en 2021
 ## Description de l'oeuvre
 
 Résonances,2021
-Installation interactive, bois, acier, acrylique, affichage DEL, ordinateur, composants électroniques /
-Interactive installation, wood, steel, acrylic, LED display, computer, electronic components
+Installation interactive, bois, acier, acrylique, affichage DEL, ordinateur, composants électroniques
 380 x 560 x 300 cm / 149,6 x 220,4 x 118.1 in
 
 Dans ses œuvres, Louis-Philippe Rondeau développe
@@ -79,9 +78,17 @@ Type d'installation: intéraction
 
 ## Mise en espace
 
-C'est l'une des premières oeuvre qu'on voit lorsqu'on rentre dans la salle sombre avec sa forme triangulaire, qui est dirigé à la gauche de la salle.
+C'est l'une des premières oeuvre qu'on voit lorsqu'on rentre dans la salle sombre avec sa forme triangulaire, qui est dirigé à la gauche de la salle. L'oeuvre prend assez d'espace pour que les gens puisse observer et interagir. L'oeuvre illumine vraiment la piece avec les centaines de LED que contient l'écran et le triangle. 
 
-![Capture](https://user-images.githubusercontent.com/112128474/220783976-29ddcbd1-4351-421d-8640-1d49f56f5e0b.PNG)
+
+![Croquis](https://user-images.githubusercontent.com/112128474/220784423-bf283a8a-e1c7-4fc6-8b0a-d8be3e418065.PNG)
+
+## Composantes et techniques
+
+L'oeuvre contient du bois, de l'acier, de l'acrylique, un écran DEL, ordinateur, composants électroniques (cables) et une caméra usb
+
+## Éléments nécessaires à la mise en exposition
+
 
 
 ![moiYavuz](https://user-images.githubusercontent.com/112128474/219435617-1322e50b-aaa7-490a-96f0-58e0aeb5972a.png)
