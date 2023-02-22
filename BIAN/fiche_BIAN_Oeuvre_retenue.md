@@ -27,7 +27,7 @@ Le titre de l'oeuvre choisi est Résonance
 
 !![L'oeuvre](https://user-images.githubusercontent.com/112128474/220761683-ffcad2cf-d76e-4fd7-bfe9-c3e9c4233126.png)
 
-##Nom de l'artiste
+## Nom de l'artiste
 
 L'artiste ce nomme Louis-Philippe Rondeau.
 
@@ -39,10 +39,12 @@ L'oeuvre a été réaliser en 2021
 
 RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle. Cette boucle visuelle et sonore permet à l’interacteur de chorégraphier son présent en le construisant sur son propre passé, de manière ludique et singulière. La pièce a été dévoilée en décembre 2021 lors de l’exposition CORPS DATA à l’Ilot Balmoral en collaboration avec ELEKTRA. Elle a été présentée à la BIAN 6 (Biennale d’art numérique) à Arsenal art contemporain à Montréal en 2023.
 
-RESONANCES is a metaphor for the passage of time. However, instead of expressing the linearity of time, this interactive installation evokes the way in which the actions of the present are overlapping with those of the past. Like a visual and sound echo, RESONANCES represents our previous actions that resurface, amplifying the present, and becoming in turn past, like a perpetual temporal mise en abyme. This visual and sound loop allows the interactor to choreograph their present by building it on their own past, in a playful and singular way. The piece was unveiled in December 2021 during the CORPS DATA exhibition at the Ilot Balmoral in collaboration with ELEKTRA. It was presented at BIAN 6 (Biennale d’art numérique) at Arsenal Contemporary Art in Montreal in 2023.
-
 Référemce: http://patenteux.com/wp/portfolio/resonances-2021/
 
+## Types d'installation
+
+Type d'installation: intéraction
 
 ![moiYavuz](https://user-images.githubusercontent.com/112128474/219435617-1322e50b-aaa7-490a-96f0-58e0aeb5972a.png)
+
 Photo prise devant l'oeuvre de *Digital Art Biennial* de Louis-Philippe Rondeau, BIAN, février 2023
