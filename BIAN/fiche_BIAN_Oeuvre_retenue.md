@@ -63,10 +63,7 @@ antérieures qui resurgissent, amplifiant le présent et
 devenant à leur tour passé, telle une perpétuelle mise en
 abyme temporelle.
 
-Référemce: http://patenteux.com/wp/portfolio/resonances-2021/
-
 ![Description](https://user-images.githubusercontent.com/112128474/220764713-18a9e161-aaca-4553-bdf9-3ad8b425a57b.png)
-
 
 ## Types d'installation
 
