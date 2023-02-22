@@ -54,6 +54,15 @@ travers le monde tels que Ars Electronica (Linz, Autriche)
 et la collection permanent de Phaeno (Wolfsburg,
 Allemaqne).
 
+Résonances est une métaphore sur le temps qui défile.
+Au lieu d'exprimer la linéarité du temps, cette
+installation interactive évoque la manière dot les
+gestes du présent se superposent à ceux du passé. Tel
+un écho visuel et sonore, elle représente nos actions
+antérieures qui resurgissent, amplifiant le présent et
+devenant à leur tour passé, telle une perpétuelle mise en
+abyme temporelle.
+
 Référemce: http://patenteux.com/wp/portfolio/resonances-2021/
 
 ![Description](https://user-images.githubusercontent.com/112128474/220764713-18a9e161-aaca-4553-bdf9-3ad8b425a57b.png)
