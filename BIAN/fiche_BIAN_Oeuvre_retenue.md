@@ -1,7 +1,7 @@
 # Résonance (2021)
 
-
-Photo prise devant l'oeuvre de *Digital Art Biennial* de Louis-Philippe Rondeau, BIAN, février 2023
+## Nom de l'exposition
+Mutation Bian 6
 
 ## Lieu de mise en exposition
 
@@ -21,3 +21,4 @@ Permettre aux étudiants d'aiguiser leur regard sur les oeuvres et dispositifs m
 
 
 ![moiYavuz](https://user-images.githubusercontent.com/112128474/219435617-1322e50b-aaa7-490a-96f0-58e0aeb5972a.png)
+Photo prise devant l'oeuvre de *Digital Art Biennial* de Louis-Philippe Rondeau, BIAN, février 2023
