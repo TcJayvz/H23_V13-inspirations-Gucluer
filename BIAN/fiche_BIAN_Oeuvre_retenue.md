@@ -25,7 +25,7 @@ La date de la visite était le 2 février 2023
 
 Le titre de l'oeuvre choisi est Résonance
 
-!![L'oeuvre](https://user-images.githubusercontent.com/112128474/220761683-ffcad2cf-d76e-4fd7-bfe9-c3e9c4233126.png)
+![L'oeuvre](https://user-images.githubusercontent.com/112128474/220761683-ffcad2cf-d76e-4fd7-bfe9-c3e9c4233126.png)
 
 ## Nom de l'artiste
 
