@@ -1,7 +1,5 @@
 # Yavuz Selim Gucluer
 
-Photo prise devant l'oeuvre de *Digital Art Biennial* de Louis-Philippe Rondeau, BIAN, février 2023
-
 ## Intérêts dans le domaine du multimédia
 Ce domaine est pour moi un champ de découvertes sans cesse renouvellé. J'aime la créativité et le caractère innovateur que le numérique apporte aux artistes. En exposition, le multimédia est un support qui permet aux visiteurs de s'engager et d'entrer en relation avec divers contenus.
 
