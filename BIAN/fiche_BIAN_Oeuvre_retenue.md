@@ -15,7 +15,7 @@ Photo prise devant l'entrer de la galerie de l'art contemporain d'Arsenal lors d
 
 ## Type d'exposition
 
-C'étais une exposition itinérante, car c'est une exposition présentée dans plusieurs lieux. Celui-ci a durée plus de 3 mois.
+C'étais une exposition itinérante, car c'est une exposition présentée dans plusieurs lieux.
 
 ## Date de la visite
 
