@@ -94,10 +94,24 @@ Des cables(audio), des speaker, des cache fils et des soutiens était nécessair
 
 ## Expérience vécue
 
-
+J'ai vecu une experience plustot plaisante, c'etait vraiment intrigeant de passer devant la camera et de voire le resultat sur l'ecran. Chaque personne avait sa facon de passer a travers et c'est fascinant a chaque fois, l'un passe lentement ce qui va etirer l'image de la personne, d'autre passe rapidement et ainsi. Une oeuvre exceptionnel.
 
 ![moiYavuz](https://user-images.githubusercontent.com/112128474/219435617-1322e50b-aaa7-490a-96f0-58e0aeb5972a.png)
 
-
 https://user-images.githubusercontent.com/112128474/220791980-1b433113-56df-48c6-9a83-2dba8b134983.mp4
 
+## ❤️ Ce qui vous a plu, vous a donné des idées
+
+J'ai vraiment aimé qu'une oeuvre simple qui fait que prendre des photos de facon unique soit aussi captivant. Cette oeuvre me fait rappeler des miroir déformant qu'on voit dans les fête foraine, mais de facon moderne et virtuelle.
+
+Sinon j'ai aussi aimé l'oeuvre des deux autos en collision en ralenti, j'aime tout ce qui est relié avec les autos, ducoup cela ma captivé instantanement.
+
+![auto](https://user-images.githubusercontent.com/112128474/220798365-e3e91748-9c0a-4691-b8f8-300ee2a1703f.png)
+
+## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+
+J'aurai changer la base pour qu'elle puisse faire une rotation de 360 degrees pour avoir des effets different sur l'image et peut etre changer la couleur des lumieres comme autre option.
+
+## Référence
+
+https://www.elektramontreal.ca/bian2022-louis-philippe-rondeau?lang=fr
