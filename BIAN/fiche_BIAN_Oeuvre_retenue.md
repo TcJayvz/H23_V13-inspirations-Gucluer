@@ -110,7 +110,7 @@ Sinon j'ai aussi aimé l'oeuvre des deux autos en collision en ralenti, j'aime t
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-J'aurai changé la base pour qu'elle puisse faire une rotation de 360 degrés pour avoir des effets different sur l'image et peut-être changer la couleur des lumières comme autre option.
+J'aurai changé la base pour qu'elle puisse faire une rotation de 360 degrés autour de la personne pour avoir des effets differents sur l'image et peut-être changer la couleur des lumières comme autre option.
 
 ## Référence
 
