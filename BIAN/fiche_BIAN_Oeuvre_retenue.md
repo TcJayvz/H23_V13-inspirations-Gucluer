@@ -89,6 +89,10 @@ L'oeuvre contient du bois, de l'acier, de l'acrylique, un écran DEL, ordinateur
 
 ## Éléments nécessaires à la mise en exposition
 
+Des cables(audio), des speaker, des cache fils et des soutiens était nécessaire pour à la mise en expositions
+
+## Expérience vécue
+
 
 
 ![moiYavuz](https://user-images.githubusercontent.com/112128474/219435617-1322e50b-aaa7-490a-96f0-58e0aeb5972a.png)
