@@ -15,7 +15,7 @@ Photo prise devant l'entrer de la galerie de l'art contemporain d'Arsenal lors d
 
 ## Type d'exposition
 
-C'étais une exposition itinérante, car c'est une exposition présentée dans plusieurs lieux.
+C'étais une exposition itinérante
 
 ## Date de la visite
 
