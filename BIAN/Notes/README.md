@@ -1,3 +1,5 @@
+## note prise durant la sortie
+
 LOUIS-PHILIPPE RONDEAU
 Né en 1976 à Montréal (Canada) / Born in 1976 in Montreal (Canada)
 Vit et travaille à Montréal (Canada) / Lives and works in Montreal (Canada)
