@@ -97,4 +97,6 @@ Des cables(audio), des speaker, des cache fils et des soutiens était nécessair
 
 ![moiYavuz](https://user-images.githubusercontent.com/112128474/219435617-1322e50b-aaa7-490a-96f0-58e0aeb5972a.png)
 
-Photo prise devant l'oeuvre de *Digital Art Biennial* de Louis-Philippe Rondeau, BIAN, février 2023
+
+https://user-images.githubusercontent.com/112128474/220791980-1b433113-56df-48c6-9a83-2dba8b134983.mp4
+
