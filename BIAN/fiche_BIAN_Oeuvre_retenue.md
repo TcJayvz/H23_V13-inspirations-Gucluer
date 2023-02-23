@@ -94,7 +94,7 @@ Des cables(audio), des speaker, des cache fils et des soutiens était nécessair
 
 ## Expérience vécue
 
-J'ai vecu une experience plustot plaisante, c'etait vraiment intrigeant de passer devant la camera et de voire le resultat sur l'ecran. Chaque personne avait sa facon de passer a travers et c'est fascinant a chaque fois, l'un passe lentement ce qui va etirer l'image de la personne, d'autre passe rapidement et ainsi. Une oeuvre exceptionnel.
+J'ai vécu une expérience plutôt plaisante, c'était vraiment intrigant de passer devant la caméra et de voir le résultat sur l'écran. Chaque personne avait sa façon de passer à travers et c'est fascinant à chaque fois, l'un passe lentement ce qui va étirer l'image de la personne, d'autres passe rapidement et ainsi. Une oeuvre exceptionnelle.
 
 ![moiYavuz](https://user-images.githubusercontent.com/112128474/219435617-1322e50b-aaa7-490a-96f0-58e0aeb5972a.png)
 
@@ -102,15 +102,15 @@ https://user-images.githubusercontent.com/112128474/220791980-1b433113-56df-48c6
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 
-J'ai vraiment aimé qu'une oeuvre simple qui fait que prendre des photos de facon unique soit aussi captivant. Cette oeuvre me fait rappeler des miroir déformant qu'on voit dans les fête foraine, mais de facon moderne et virtuelle.
+J'ai vraiment aimé qu'une oeuvre simple qui fait que prendre des photos de façon unique soit aussi captivant. Cette oeuvre me fait rappeler des miroirs déformants qu'on voit dans les fêtes foraines, mais de façon moderne et virtuelle.
 
-Sinon j'ai aussi aimé l'oeuvre des deux autos en collision en ralenti, j'aime tout ce qui est relié avec les autos, ducoup cela ma captivé instantanement.
+Sinon j'ai aussi aimé l'oeuvre des deux autos en collision en ralenti, j'aime tout ce qui est relié avec les autos, ducoup cela ma captivé instantanément.
 
 ![auto](https://user-images.githubusercontent.com/112128474/220798365-e3e91748-9c0a-4691-b8f8-300ee2a1703f.png)
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-J'aurai changer la base pour qu'elle puisse faire une rotation de 360 degrees pour avoir des effets different sur l'image et peut etre changer la couleur des lumieres comme autre option.
+J'aurai changé la base pour qu'elle puisse faire une rotation de 360 degrés pour avoir des effets different sur l'image et peut-être changer la couleur des lumières comme autre option.
 
 ## Référence
 
