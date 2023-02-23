@@ -25,7 +25,7 @@ La date de la visite était le 2 février 2023
 
 Le titre de l'oeuvre choisi est Résonance
 
-![L'oeuvre](https://user-images.githubusercontent.com/112128474/220761683-ffcad2cf-d76e-4fd7-bfe9-c3e9c4233126.png)
+![L'oeuvre](https://user-images.githubusercontent.com/112128474/220794700-c5613f82-16f1-4961-a239-dea5661bb27a.png)
 
 ## Nom de l'artiste
 
@@ -64,17 +64,18 @@ abyme temporelle.
 
 ![Description](https://user-images.githubusercontent.com/112128474/220764713-18a9e161-aaca-4553-bdf9-3ad8b425a57b.png)
 
-![Vue1](https://user-images.githubusercontent.com/112128474/220765879-361f7d81-4d14-4c60-8bac-ce71ac28b23d.png)
+![Vue1](https://user-images.githubusercontent.com/112128474/220795034-5b998f63-cb96-4050-a916-74d7483805ec.png)
 
-![Vue2](https://user-images.githubusercontent.com/112128474/220765915-15a46e2b-b436-4fa3-b01e-b3b85fc33354.png)
+![Vue2](https://user-images.githubusercontent.com/112128474/220795031-96e3929e-3340-4d5a-a745-74bd11b7f302.png)
 
-![Vue3](https://user-images.githubusercontent.com/112128474/220765933-eb2b6fa0-8433-4d4a-9b42-0fc5732c5f92.png)
+![Vue3](https://user-images.githubusercontent.com/112128474/220795036-e4334044-569a-4507-8d66-4e055abaccff.png)
+
 
 ## Types d'installation
 
 Type d'installation: intéraction
 
-![GrandeVue](https://user-images.githubusercontent.com/112128474/220769608-aec2331c-060d-4b43-82c8-560fca51d46d.png)
+![GrandeVue](https://user-images.githubusercontent.com/112128474/220794670-b231b636-aaf3-4a58-94a3-3dd8d4d904ad.png)
 
 ## Mise en espace
 
