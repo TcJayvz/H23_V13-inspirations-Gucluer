@@ -9,4 +9,3 @@
 - Boucler la boucle: https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
 
 - Zodie Gal: https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
-
