@@ -43,4 +43,4 @@ Une expérience lumineuse immersive, des animations sensationnelles et une ambia
 ### L'installation en cours
 
 ### Le schéma d'installation
-- Nexum: https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
+- Nexum: https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
