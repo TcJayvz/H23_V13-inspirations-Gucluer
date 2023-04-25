@@ -24,7 +24,7 @@ Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc
 
 ## Luma Sol
 ### les créateurs
-Les créateurs sont 
+Les créateurs sont Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson.
  
 ### Le lien avec le thème
 
