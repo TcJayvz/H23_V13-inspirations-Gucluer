@@ -57,6 +57,7 @@ L'intégration de tous les logiciels pour assurer le bon fonctionnement global a
 Les créateurs sont Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson.
  
 ### Le lien avec le thème
+L'oeuvre consiste à mettre en évidence l'importance de maintenir un lien avec la nature pour faire face à l'urgence climatique actuelle.
 
 ### L'installation en cours
 
