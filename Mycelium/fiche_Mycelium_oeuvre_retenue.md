@@ -10,7 +10,7 @@ Collège Montmorency
 
 ## Type d'exposition
 
-extérieur et intérieur
+extérieur et intérieur (intérieur pour Echomarine)
 
 ## Date de la visite
 
