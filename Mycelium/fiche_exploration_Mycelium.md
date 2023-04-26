@@ -29,6 +29,7 @@ Ce projet souhaite sensibiliser les interacteurs aux animaux marins en voie de d
 Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe.
  
 ### Le lien avec le thème
+Le projet Edria utilise les lumières pour connecter la nature et le réseau mycélium, afin de mettre en évidence la dualité entre la technologie et la nature.
 
 ### L'installation en cours
 
