@@ -4,6 +4,8 @@
 
 Mycélium
 
+![Affiche_mycelium](media/Mycelium_affiche.jpg)
+
 ## Lieu de mise en exposition
 
 Collège Montmorency
