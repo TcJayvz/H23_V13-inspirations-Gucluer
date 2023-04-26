@@ -48,6 +48,8 @@ Echomarine cherche à sensibiliser le public aux animaux marins en danger. Cette
 
 Interactive et immersive
 
+![vue_parlante](https://www.youtube.com/shorts/WCgniecBKQY)
+
 ## Mise en espace
 
 Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les projecteurs qui sont installés sur le plafond et il y a des haut-parleurs a chaque coins du studio. Il y a un trépied avec une tablette au centre. 
