@@ -58,6 +58,8 @@ Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les p
 
 -Logiciels (animation, audio, etc...)
 
+![composante](media/Echomarine_les_trois_projecteurs.jpg)
+
 ## Éléments nécessaires à la mise en exposition
 
 - Tablette
@@ -71,6 +73,12 @@ Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les p
 - Lumières RGB
 - Ordinateur
 - Commutateur Ethernet
+
+![composante](media/Echomarine_les_trois_projecteurs.jpg)
+
+![speaker](media/Echomarine_haut-parleur.jpg)
+
+![cable](media/Echomarine_prise_cable.jpg)
 
 ## Expérience vécue
 
