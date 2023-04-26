@@ -1,3 +1,1 @@
-## Travail 1B
-
-Les rendus des conférences de yanik et karine
+## Travail 1B - Conferences
