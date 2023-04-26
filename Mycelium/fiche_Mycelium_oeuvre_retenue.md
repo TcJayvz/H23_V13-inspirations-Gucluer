@@ -45,7 +45,7 @@ Echomarine cherche à sensibiliser le public aux animaux marins en danger. Cette
 ![vue_oeuvre_deux](media/Echomarine_vue_droite_tablette_trepied.jpg)
 
 ## Types d'installation
-
+as
 Interactive et immersive
 
 ## Mise en espace
