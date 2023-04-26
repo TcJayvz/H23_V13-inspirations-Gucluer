@@ -24,6 +24,8 @@ extérieur et intérieur (intérieur pour Echomarine)
 
 Echomarine
 
+![Vue_de_loeuvre](media/Echomarine_vue_entrée_et_lumiere_rgb.jpg)
+
 ## Nom de l'artiste
 
 Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
@@ -35,6 +37,10 @@ Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 ## Description de l'oeuvre
 
 Echomarine cherche à sensibiliser le public aux animaux marins en danger. Cette projection immersive contrôlée par un dispositif interactif permet d'apprécier la beauté des profondeurs tout en mettant de l'avant ses enjeux.
+
+![Descrption_oeuvre](media/Echomarine_affiche_degors.jpg)
+![Vue_oeuvre](media/Echomarine_vue derriere_tablette_trepied.jpg)
+![vue_oeuvre_deux](media/Echomarine_vue_droite_tablette_trepied.jpg)
 
 ## Types d'installation
 
