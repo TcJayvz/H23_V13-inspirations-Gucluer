@@ -63,6 +63,8 @@ Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les p
 - Animation
 - Fichier Sonore
 
+![Logiciel](media/Echomarine_logiciel.PNG)
+
 ![composante](media/Echomarine_les_trois_projecteurs.jpg)
 
 ## Éléments nécessaires à la mise en exposition
