@@ -64,8 +64,6 @@ Les créateurs sont Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénél
 - Animation 2d
 - MdMapper
 
-### Technique d'installation
-
 ### Expérience 
 
 - Luma Sol: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
