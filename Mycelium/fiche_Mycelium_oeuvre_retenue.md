@@ -10,6 +10,8 @@ Mycélium
 
 Collège Montmorency
 
+![Moi_devant_lentrée](media/Echomarine_devant_lentrée.jpg)
+
 ## Type d'exposition
 
 extérieur et intérieur (intérieur pour Echomarine)
@@ -48,17 +50,17 @@ Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les p
 
 ## Éléments nécessaires à la mise en exposition
 
--Tablette
--Support tablette
--Affiche
--Hauts-parleur (4)
--carte de son
--Projecteurs (3)
--Drap blanc
--Cordons IEC (Alimentation hauts-parleur)
--Lumières RGB
--Ordinateur
--Commutateur Ethernet
+- Tablette
+- Support tablette
+- Affiche
+- Hauts-parleur (4)
+- carte de son
+- Projecteurs (3)
+- Drap blanc
+- Cordons IEC (Alimentation hauts-parleur)
+- Lumières RGB
+- Ordinateur
+- Commutateur Ethernet
 
 ## Expérience vécue
 
