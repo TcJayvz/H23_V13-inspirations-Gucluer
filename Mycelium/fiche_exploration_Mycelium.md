@@ -11,6 +11,8 @@ Ce projet souhaite sensibiliser les interacteurs aux animaux marins en voie de d
 
 ### Le schéma d'installation
 
+![schema](media/SchemaEchomarine.png)
+
 ### Cours important à la réalisation du projet
 - Animation 2d
 - Tous les cours de Web
@@ -29,6 +31,8 @@ Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc
 ### L'installation en cours
 
 ### Le schéma d'installation
+
+![schema](media/SchemaEdria.png)
 
 ### Cours important à la réalisation du projet
 - Animation 2d
@@ -53,6 +57,8 @@ Les créateurs sont Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénél
 
 ### Le schéma d'installation
 
+![schema](media/SchemaLumasol.png)
+
 ### Cours important à la réalisation du projet
 - Traitement vidéo
 - Animation 2d
@@ -74,6 +80,8 @@ Une expérience lumineuse immersive, des animations sensationnelles et une ambia
 ### L'installation en cours
 
 ### Le schéma d'installation
+
+![schema](media/SchemaNexum.png)
 
 ### Cours important à la réalisation du projet
 - Traitement vidéo
