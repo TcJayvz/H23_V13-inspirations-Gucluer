@@ -10,7 +10,7 @@ Mycélium
 
 Collège Montmorency
 
-![Moi_devant_lentrée](media/Echomarine_devant_lentrée.jpg)
+![Moi_devant_lentre](media/Echomarine_devant_lentrée.jpg)
 
 ## Type d'exposition
 
