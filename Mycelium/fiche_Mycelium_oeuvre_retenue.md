@@ -59,7 +59,9 @@ Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les p
 
 ## Composantes et techniques
 
--Logiciels (animation, audio, etc...)
+- Logiciels
+- Animation
+- Fichier Sonore
 
 ![composante](media/Echomarine_les_trois_projecteurs.jpg)
 
