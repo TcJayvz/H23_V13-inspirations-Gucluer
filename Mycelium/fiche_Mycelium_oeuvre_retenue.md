@@ -10,7 +10,7 @@ Collège Montmorency
 
 ## Type d'exposition
 
-extérieur
+extérieur et intérieur
 
 ## Date de la visite
 
@@ -37,8 +37,6 @@ Echomarine cherche à sensibiliser le public aux animaux marins en danger. Cette
 Interactive et immersive
 
 ## Mise en espace
-
-Lorsqu'on rentre dans le petit studio sombre, les trois projecteurs affichent l'oeuvre des trois côtée du studio. On voit la tablette au centre qui est soutenue avec un trépied pour tablette. On nous propose de choisir entre 6 animaux marins en danger, lorsqu'on appuie sur l'image, on voit l'animau marin en grand avec une description de celle-ci. On entend ensuite le son qui emmet l'animau marin et elle apparait dans l'eau "les murs", entourer d'algues et de plantes.
 
 Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les projecteurs qui sont installés sur le plafond et il y a des haut-parleurs a chaque coins du studio. Il y a un trépied avec une tablette au centre. 
 
