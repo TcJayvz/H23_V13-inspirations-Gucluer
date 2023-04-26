@@ -66,11 +66,12 @@ J'ai vécu une expérience extrêmement agréable qui m'a rappelé la sensation 
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 
-
+J'apprécie énormément l'atmosphère créée par l'œuvre et l'audio, qui nous transporte sous l'océan en compagnie des animaux marins. Ce que j'aime particulièrement, c'est la manière dont cette œuvre met en valeur la beauté de ces créatures tout en nous rappelant leur vulnérabilité et le besoin urgent de protéger les écosystèmes marins.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-
+Je remarque que si l'on ne clique pas sur les images, l'océan peut sembler un peu vide. Il aurait peut-être été intéressant d'ajouter des petits poissons ou des coquillages pour enrichir l'environnement.
 
 ## Référence
 
+https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
