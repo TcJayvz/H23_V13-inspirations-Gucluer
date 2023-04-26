@@ -31,9 +31,9 @@ Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc
 ### Le schéma d'installation
 
 ### Cours important à la réalisation du projet
--Animation 2d
--Cours de MadMapper
--Installation multimédia
+- Animation 2d
+- Cours de MadMapper
+- Installation multimédia
 
 ### Technique d'installation
 L'intégration de tous les logiciels pour assurer le bon fonctionnement global a été un défi pour l'équipe d'Edria.
@@ -54,9 +54,9 @@ Les créateurs sont Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénél
 ### Le schéma d'installation
 
 ### Cours important à la réalisation du projet
--Traitement vidéo
--Animation 2d
--MdMapper
+- Traitement vidéo
+- Animation 2d
+- MdMapper
 
 ### Technique d'installation
 
@@ -76,10 +76,10 @@ Une expérience lumineuse immersive, des animations sensationnelles et une ambia
 ### Le schéma d'installation
 
 ### Cours important à la réalisation du projet
--Traitement vidéo
--Animation 2D
--Conception de proet multimédia
--Son
+- Traitement vidéo
+- Animation 2D
+- Conception de proet multimédia
+- Son
 
 ### Technique d'installation
 Pour l'équipe de Nexum, le logiciel MadMapper a constitué un défi pour la synchronisation des capteurs avec le son et la lumière.
