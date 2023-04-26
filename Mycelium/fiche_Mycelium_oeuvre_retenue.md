@@ -40,7 +40,7 @@ Echomarine cherche à sensibiliser le public aux animaux marins en danger. Cette
 
 ![Descrption_oeuvre](media/Echomarine_affiche_degors.jpg)
 
-![Vue_oeuvre](media/Echomarine_vue derriere_tablette_trepied.jpg)
+![Vue_oeuvre](media/Echomarine_vue_derriere_tablette_trepied.jpg)
 
 ![vue_oeuvre_deux](media/Echomarine_vue_droite_tablette_trepied.jpg)
 
