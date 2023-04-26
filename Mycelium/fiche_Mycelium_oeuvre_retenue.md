@@ -49,7 +49,7 @@ Echomarine cherche à sensibiliser le public aux animaux marins en danger. Cette
 Interactive et immersive
 
 
-[![Vue parlante](https://www.youtube.com/shorts/WCgniecBKQY)](https://www.youtube.com/shorts/WCgniecBKQY)
+[![Video Echomarine](https://www.youtube.com/shorts/WCgniecBKQY)](https://www.youtube.com/shorts/WCgniecBKQY)
 
 ## Mise en espace
 
