@@ -12,9 +12,9 @@ Ce projet souhaite sensibiliser les interacteurs aux animaux marins en voie de d
 ### Le schéma d'installation
 
 ### Cours important à la réalisation du projet
--Animation 2d
--Tous les cours de Web
--Traitement vidéo
+- Animation 2d
+- Tous les cours de Web
+- Traitement vidéo
 
 ### Expérience 
 
