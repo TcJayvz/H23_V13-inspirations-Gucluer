@@ -39,7 +39,9 @@ Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 Echomarine cherche à sensibiliser le public aux animaux marins en danger. Cette projection immersive contrôlée par un dispositif interactif permet d'apprécier la beauté des profondeurs tout en mettant de l'avant ses enjeux.
 
 ![Descrption_oeuvre](media/Echomarine_affiche_degors.jpg)
+
 ![Vue_oeuvre](media/Echomarine_vue derriere_tablette_trepied.jpg)
+
 ![vue_oeuvre_deux](media/Echomarine_vue_droite_tablette_trepied.jpg)
 
 ## Types d'installation
