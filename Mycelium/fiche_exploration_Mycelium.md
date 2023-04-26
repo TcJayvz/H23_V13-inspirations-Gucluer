@@ -9,6 +9,8 @@ Ce projet souhaite sensibiliser les interacteurs aux animaux marins en voie de d
 
 ### L'installation en cours
 
+![installation](media/Installation_echomarine.PNG)
+
 ### Le schéma d'installation
 
 ![schema](media/SchemaEchomarine.png)
@@ -29,6 +31,8 @@ Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc
 ### Le lien avec le thème
 
 ### L'installation en cours
+
+![installation](media/Installation_edria.PNG)
 
 ### Le schéma d'installation
 
@@ -55,6 +59,8 @@ Les créateurs sont Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénél
 
 ### L'installation en cours
 
+![installation](media/Installation_lumasol.PNG)
+
 ### Le schéma d'installation
 
 ![schema](media/SchemaLumasol.png)
@@ -76,6 +82,8 @@ Les créateurs sont Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxim
 Une expérience lumineuse immersive, des animations sensationnelles et une ambiance musicale des plus spéciale. Ce parcours interactif permet la connexion entre l'humain et son espace tout en nous plongeant dans un environnement immersif enchanteur.
 
 ### L'installation en cours
+
+![installation](media/Installation_nexum.PNG)
 
 ### Le schéma d'installation
 
