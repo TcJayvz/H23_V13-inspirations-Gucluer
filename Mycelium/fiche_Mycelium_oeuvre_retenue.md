@@ -52,6 +52,8 @@ Interactive et immersive
 
 Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les projecteurs qui sont installés sur le plafond et il y a des haut-parleurs a chaque coins du studio. Il y a un trépied avec une tablette au centre. 
 
+![Schema](media/SchemaEchomarine.png)
+
 ## Composantes et techniques
 
 -Logiciels (animation, audio, etc...)
