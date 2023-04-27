@@ -50,6 +50,7 @@ Interactive et immersive
 
 
 [![Video Echomarine](https://www.youtube.com/shorts/WCgniecBKQY)](https://www.youtube.com/shorts/WCgniecBKQY)
+[![Video Echomarine composoante et technique](https://youtube.com/shorts/SXMx00EYUBM)](https://youtube.com/shorts/SXMx00EYUBM)
 
 ## Mise en espace
 
