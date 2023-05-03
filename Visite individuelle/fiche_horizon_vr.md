@@ -97,5 +97,5 @@ Je pense que les salles auront pu ete utiliser pour d'autres oeuvres, car elles 
 
 ## Référence
 
-[https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html](https://phi.ca/fr/evenements/horizons-vr/)
+https://phi.ca/fr/evenements/horizons-vr/
 
