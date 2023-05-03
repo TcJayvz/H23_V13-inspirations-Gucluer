@@ -61,7 +61,7 @@ La salle est située à la fin du couloir orange avec des LEDs qui entourent cha
 
 ## Composantes et techniques
 
-- Logiciels
+- Logiciels VR
 - Le jeux/film
 
 ![Logiciel](media/Echomarine_logiciel.PNG)
