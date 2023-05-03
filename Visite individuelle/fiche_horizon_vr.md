@@ -55,7 +55,7 @@ Interactive et immersive
 
 ## Mise en espace
 
-Une sale couvert de carrau blanc sur le sol, le mur, le plafond, les sieges cubique et le gros panneau lumineux. Les casque et la mannete VR sont placerr sur les sieges cubique. Une etagere avec des mannettes en surplus si la mannette ne fonctionne plus. Un support a cable sur le plafond qui permet de cacher les excets de cable qui provient du casque VR.
+La salle est située à la fin du couloir orange avec des LEDs qui entourent chaque porte. La pièce est entièrement couvert de carreaux blancs sur le sol, le mur, le plafond, les sièges cubiques et un grand panneau lumineux. Les casques et la manette de VR sont placés sur les sièges cubiques, tandis qu'une étagère qui contient des manettes supplémentaires est disponible en cas de problème. De plus, un support de câble fixé au plafond permet de cacher les excédents de câble provenant du casque VR.
 
 ![Schema](media/SchemaEchomarine.png)
 
