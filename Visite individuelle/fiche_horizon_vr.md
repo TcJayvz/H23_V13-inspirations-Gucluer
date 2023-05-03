@@ -55,15 +55,14 @@ Interactive et immersive
 
 ## Mise en espace
 
-Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les projecteurs qui sont installés sur le plafond et il y a des haut-parleurs a chaque coins du studio. Il y a un trépied avec une tablette au centre. 
+Une sale couvert de carrau blanc sur le sol, le mur, le plafond, les sieges cubique et le gros panneau lumineux. Les casque et la mannete VR sont placerr sur les sieges cubique. Une etagere avec des mannettes en surplus si la mannette ne fonctionne plus. Un support a cable sur le plafond qui permet de cacher les excets de cable qui provient du casque VR.
 
 ![Schema](media/SchemaEchomarine.png)
 
 ## Composantes et techniques
 
 - Logiciels
-- Animation
-- Fichier Sonore
+- Le jeux/film
 
 ![Logiciel](media/Echomarine_logiciel.PNG)
 
@@ -71,17 +70,12 @@ Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les p
 
 ## Éléments nécessaires à la mise en exposition
 
-- Tablette
-- Support tablette
-- Affiche
-- Hauts-parleur (4)
-- carte de son
-- Projecteurs (3)
-- Drap blanc
-- Cordons IEC (Alimentation hauts-parleur)
-- Lumières RGB
-- Ordinateur
-- Commutateur Ethernet
+- Casque et mannette VR (6)
+- Les sieges cubique (6)
+- La salle avec les motifs carree
+- Ordinateurs
+- Le panneau led (motif carree)
+- Support a cable (6)
 
 ![composante](media/Echomarine_les_trois_projecteurs.jpg)
 
@@ -91,19 +85,17 @@ Le petit studio est couvert avec des rideaux blancs pour la diffusion avec les p
 
 ## Expérience vécue
 
-J'ai vécu une expérience extrêmement agréable qui m'a rappelé la sensation d'être dans un sous-marin, à observer les animaux marins nager autour de nous. Grâce à une tablette, nous pouvions appuyer sur les images des différentes créatures et observer des animations tout en entendant les sons de l'environnement marin qui nous entourait.
+J'ai vécu une assez bonne expérience en apprenant la langue XYZ, apprendre leur histoire avec de belle animation, survoler leur village avec de belle vue de montagne, de foret et parler quelque mots de leur langue. 
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 
-J'apprécie énormément l'atmosphère créée par l'œuvre et l'audio, qui nous transporte sous l'océan en compagnie des animaux marins. Ce que j'aime particulièrement, c'est la manière dont cette œuvre met en valeur la beauté de ces créatures tout en nous rappelant leur vulnérabilité et le besoin urgent de protéger les écosystèmes marins.
-
-J'ai vraiment aime/ l'aspect audio de cette oeuvre virtuelle, dire les mots a voix haute et apprendre quelque mots de leur langue.
+J'ai vraiment aime/ le fait qu'on devait dire le mot dans le micro et le repeter si on le prononce pas correctement. J'aime le mix de l'animation 3d avec le vrai monde. Lorsque c'est des histoires elles utilisent de belles animations 3d et lorsque le chaman raconte des anecdotes on est dans sa maison.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-Je remarque que si l'on ne clique pas sur les images, l'océan peut sembler un peu vide. Il aurait peut-être été intéressant d'ajouter des petits poissons ou des coquillages pour enrichir l'environnement.
+Je pense que les salles auront pu ete utiliser pour d'autres oeuvres, car elles sont vraiment belle et unique pour la visioner pour quelque seconde et on passe 95% du temps sur le VR. Rester assis sur un siege en bois pendant 45 minutes a chaque oeuvre n'etait pas plaisant n'ont plus.
 
 ## Référence
 
-https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
+[https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html](https://phi.ca/fr/evenements/horizons-vr/)
 
