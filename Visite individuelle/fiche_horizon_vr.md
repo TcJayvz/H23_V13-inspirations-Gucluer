@@ -18,7 +18,7 @@ C'est une exposition temporaire (du 30 juin jusqu'au 5 mars 2023)
 
 ## Date de la visite
 
-La date de visite etait le 1er mars 2023
+La date de visite était le 1er mars 2023
 
 ## Titre de l'oeuvre
 
@@ -28,11 +28,11 @@ Le titre de l'œuvre est "Kusunda"
 
 ## Nom de l'artiste
 
-Cette œuvre a été réalisée par Felix Gaedtke et Gayatri Parameswaran.
+Cette œuvre à été réalisée par Felix Gaedtke et Gayatri Parameswaran.
 
 ## Année de réalisation
 
-L'oeuvre a ete realiser en 2021
+L'oeuvre à été réaliser en 2021
 
 ## Description de l'oeuvre
 
@@ -48,7 +48,6 @@ Kusunda est une expérience de réalité virtuelle conduite par la voix qui expl
 
 Interactive et immersive
 
-
 [![Video Echomarine](https://www.youtube.com/shorts/WCgniecBKQY)](https://www.youtube.com/shorts/WCgniecBKQY)
 
 [![Video Echomarine composoante et technique](https://youtube.com/shorts/SXMx00EYUBM)](https://youtube.com/shorts/SXMx00EYUBM)
@@ -62,7 +61,7 @@ La salle est située à la fin du couloir orange avec des LEDs qui entourent cha
 ## Composantes et techniques
 
 - Logiciels VR
-- Le jeux/film
+- Les jeux/documentaires
 
 ![Logiciel](media/Echomarine_logiciel.PNG)
 
@@ -70,12 +69,12 @@ La salle est située à la fin du couloir orange avec des LEDs qui entourent cha
 
 ## Éléments nécessaires à la mise en exposition
 
-- Casque et mannette VR (6)
-- Les sieges cubique (6)
-- La salle avec les motifs carree
+- Casques et mannettes VR (6)
+- Les sièges cubiques (6)
+- La salle couvert de carreaux blancs
 - Ordinateurs
-- Le panneau led (motif carree)
-- Support a cable (6)
+- Le panneau LED (motif carree)
+- Support à cable (6)
 
 ![composante](media/Echomarine_les_trois_projecteurs.jpg)
 
@@ -85,15 +84,15 @@ La salle est située à la fin du couloir orange avec des LEDs qui entourent cha
 
 ## Expérience vécue
 
-J'ai vécu une assez bonne expérience en apprenant la langue XYZ, apprendre leur histoire avec de belle animation, survoler leur village avec de belle vue de montagne, de foret et parler quelque mots de leur langue. 
+J'ai eu une belle expérience en apprenant leur histoire grâce à de belles animations, en survolant leur village avec de magnifiques vues sur les montagnes et les forêts du Népale, et en apprenant quelques mots dans leur langue. L"application utilise intelligemment la reconnaissance vocale du casque, et en plus de cela, l'histoire racontée est vraiment charmante et positive.
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 
-J'ai vraiment aime/ le fait qu'on devait dire le mot dans le micro et le repeter si on le prononce pas correctement. J'aime le mix de l'animation 3d avec le vrai monde. Lorsque c'est des histoires elles utilisent de belles animations 3d et lorsque le chaman raconte des anecdotes on est dans sa maison.
+J'ai vraiment aimer la reconnaissance vocale du casque, qui permet d'interagir l'histoire de manière plus interactive. Les graphismes et les effets visuels 3D qui rend expérience plus réaliste et engageante. Cela nous donne aussi une nouvelle forme d'apprentissage.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-Je pense que les salles auront pu ete utiliser pour d'autres oeuvres, car elles sont vraiment belle et unique pour la visioner pour quelque seconde et on passe 95% du temps sur le VR. Rester assis sur un siege en bois pendant 45 minutes a chaque oeuvre n'etait pas plaisant n'ont plus.
+Je pense il aurait été possible d'utiliser les salles pour d'autres œuvres, puisqu'elles sont assez plaisante visuellement et sont uniques, mais on ne les voit que pendant quelques secondes avant de passer à 95% du temps sur la VR. De plus, rester assis sur un siège en bois pendant 45 minutes pour chaque œuvre n'était pas non plus agréable.
 
 ## Référence
 
