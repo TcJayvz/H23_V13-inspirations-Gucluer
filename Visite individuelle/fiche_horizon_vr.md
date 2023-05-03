@@ -97,5 +97,6 @@ Je pense que les salles auront pu ete utiliser pour d'autres oeuvres, car elles 
 
 ## Référence
 
-https://phi.ca/fr/evenements/horizons-vr/
+- https://phi.ca/fr/evenements/horizons-vr/
 
+- https://www.nowheremedia.net/kusundavr
