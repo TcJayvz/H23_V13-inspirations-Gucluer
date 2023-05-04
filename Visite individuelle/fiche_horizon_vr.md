@@ -6,11 +6,13 @@ Horizon VR
 
 ![Affiche_horizonvr](Media/affiche_horizon_vr.jpg)
 
+![couloir](Media/couloir.jpg)
+
 ## Lieu de mise en exposition
 
 Centre PHI, 315 Rue Saint-Paul O, au Centre d'art à Montréal
 
-![Moi_devant_lentre](media/Echomarine_devant_lentrée.jpg)
+![Moi_devant_lentre](mMedia/moi.jpg)
 
 ## Type d'exposition
 
@@ -24,7 +26,7 @@ La date de visite était le 1er mars 2023
 
 Le titre de l'œuvre est "Kusunda"
 
-![Vue_de_loeuvre](media/Echomarine_vue_entrée_et_lumiere_rgb.jpg)
+![Vue_de_loeuvre](Media/vue_pleine_kusunda.jpg)
 
 ## Nom de l'artiste
 
@@ -38,9 +40,9 @@ L'oeuvre à été réaliser en 2021
 
 Kusunda est une expérience de réalité virtuelle conduite par la voix qui explore ce qui fait qu'une langue s'efface et ce qu'il faut faire pour la revitaliser. Le chaman Kusunda Lil Bahadur a oublié sa langue maternelle indigène. Sa petite-fille, Hima, veut la faire revivre.
 
-![Descrption_oeuvre](media/Echomarine_affiche_degors.jpg)
+![Descrption_oeuvre](Media/affiche_kusunda.jpg)
 
-![Vue_oeuvre](media/Echomarine_vue_derriere_tablette_trepied.jpg)
+![Vue_oeuvre](Media/kusunda_vr.png)
 
 ![vue_oeuvre_deux](media/Echomarine_vue_droite_tablette_trepied.jpg)
 
