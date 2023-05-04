@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 - Ce qui m'a plu: J'ai vraiment aimer la reconnaissance vocale du casque. Les graphismes et les effets visuels 3D qui rend expérience plus réaliste et engageante. Une nouvelle forme d'apprentissage.
 
-- Aspect que je ne souhaiteriez pas retenir: Je pense il aurait été possible d'utiliser les salles pour d'autres œuvres, puisqu'elles sont assez plaisante visuellement et sont uniques. Rester assis sur un siège en bois pendant 45 minutes.
+- Aspect que je ne souhaiteriez pas retenir: Je pense il aurait été possible d'utiliser les salles pour d'autres œuvres, puisqu'elles sont assez plaisante visuellement et sont uniques.
 
 - Lien avec d'autres œuvres : Le seul lien que je peux faire avec les œuvres que j'ai vues est Echomarine. Les deux ont quelque chose en commun : Echomarine cherche à sensibiliser à la disparition des animaux marins tandis que Kusunda traite d'une langue presque éteinte. Les deux sont immersives avec l'ambiance sonore.
 
