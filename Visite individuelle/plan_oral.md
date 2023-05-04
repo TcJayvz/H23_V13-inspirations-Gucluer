@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 # Développement
 
-## Information
+### Information
 
 - Exposition: Horizon VR
 
