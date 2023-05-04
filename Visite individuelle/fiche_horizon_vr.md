@@ -90,11 +90,11 @@ J'ai eu une belle expérience en apprenant leur histoire grâce à de belles ani
 
 ## Ce qui vous a plu, vous a donné des idées
 
-J'ai vraiment aimer la reconnaissance vocale du casque, qui permet d'interagir l'histoire de manière plus interactive. Les graphismes et les effets visuels 3D qui rend expérience plus réaliste et engageante. Cela nous donne aussi une nouvelle forme d'apprentissage.
+J'ai vraiment aimer la reconnaissance vocale du casque, qui permet d'interagir l'histoire de manière plus interactive. Les graphismes et les effets visuels 3D qui rend l'expérience plus réaliste et engageante. Cela nous donne aussi une nouvelle forme d'apprentissage.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-Je pense il aurait été possible d'utiliser les salles pour d'autres œuvres, puisqu'elles sont assez plaisante visuellement et sont uniques, mais on ne les voit que pendant quelques secondes avant de passer à 95% du temps sur la VR. De plus, rester assis sur un siège en bois pendant 45 minutes pour chaque œuvre n'était pas non plus agréable.
+Je pense il aurait été possible d'utiliser les salles pour d'autres œuvres, puisqu'elles sont assez plaisante visuellement et sont uniques, mais on ne les voit que pendant quelques secondes avant de passer le reste du temps sur la VR.
 
 ## Référence
 
