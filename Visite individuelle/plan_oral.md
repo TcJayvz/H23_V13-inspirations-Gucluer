@@ -3,6 +3,8 @@
 - Objectif: presenter l'oeuvre que j'ai choisi, qui est Kusunda de l'exposition Horizon VR
 - Aspects abordés: Je parlerai des informations de l'oeuvre (nom, lieu, type, titre, etc...), la mise en place, mon experience, ce que j'ai aimé et pas aimé.
 
+_____________________________________________________________________________________________________________________________________________________________
+
 # Développement
 
 ## Information
@@ -44,6 +46,8 @@
 - Aspect que je ne souhaiteriez pas retenir: Je pense il aurait été possible d'utiliser les salles pour d'autres œuvres, puisqu'elles sont assez plaisante visuellement et sont uniques. Rester assis sur un siège en bois pendant 45 minutes.
 
 - Lien avec d'autres œuvres : Le seul lien que je peux faire avec les œuvres que j'ai vues est Echomarine. Les deux ont quelque chose en commun : Echomarine cherche à sensibiliser à la disparition des animaux marins tandis que Kusunda traite d'une langue presque éteinte. Les deux sont immersives avec l'ambiance sonore.
+
+_____________________________________________________________________________________________________________________________________________________________
 
 # Conclusion
 
