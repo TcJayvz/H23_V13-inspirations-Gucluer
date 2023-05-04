@@ -60,7 +60,7 @@ Interactive et immersive
 
 La salle est située à la fin du couloir orange avec des LEDs qui entourent chaque porte. La pièce est entièrement couvert de carreaux blancs sur le sol, le mur, le plafond, les sièges cubiques et un grand panneau lumineux. Les casques et la manette de VR sont placés sur les sièges cubiques, tandis qu'une étagère qui contient des manettes supplémentaires est disponible en cas de problème. De plus, un support de câble fixé au plafond permet de cacher les excédents de câble provenant du casque VR.
 
-![Schema](media/SchemaEchomarine.png)
+![Schema](Media/schema.PNG)
 
 ## Composantes et techniques
 
@@ -80,11 +80,11 @@ La salle est située à la fin du couloir orange avec des LEDs qui entourent cha
 - Le panneau LED (motif carree)
 - Support à cable (6)
 
-![composante](media/Echomarine_les_trois_projecteurs.jpg)
+![composante](Media/cache_cable.jpg)
 
-![speaker](media/Echomarine_haut-parleur.jpg)
+![lumineux](Media/plafond_kusunda_panneaux_lumineux.jpg)
 
-![cable](media/Echomarine_prise_cable.jpg)
+![ordi](Media/ecran_ordi.jpg)
 
 ## Expérience vécue
 
