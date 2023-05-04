@@ -44,15 +44,17 @@ Kusunda est une expérience de réalité virtuelle conduite par la voix qui expl
 
 ![Vue_oeuvre](Media/kusunda_vr.png)
 
-![vue_oeuvre_deux](media/Echomarine_vue_droite_tablette_trepied.jpg)
+![vue_oeuvre_deux](Media/kusunda_protagoniste.jpeg)
 
 ## Types d'installation
 
 Interactive et immersive
 
-[![Video Echomarine](https://www.youtube.com/shorts/WCgniecBKQY)](https://www.youtube.com/shorts/WCgniecBKQY)
+![reconnaissance_vocale](Media/kusunda_parler.jpg)
 
-[![Video Echomarine composoante et technique](https://youtube.com/shorts/SXMx00EYUBM)](https://youtube.com/shorts/SXMx00EYUBM)
+[![kusunda reconnaissance vocale](https://www.youtube.com/shorts/WCgniecBKQY)](https://www.youtube.com/shorts/WCgniecBKQY)
+
+[![horizon vr](https://youtube.com/shorts/SXMx00EYUBM)](https://youtube.com/shorts/SXMx00EYUBM)
 
 ## Mise en espace
 
