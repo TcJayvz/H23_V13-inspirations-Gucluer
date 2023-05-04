@@ -54,19 +54,18 @@ Interactive et immersive
 
 [![kusunda reconnaissance vocale](https://youtube.com/shorts/IUnf1pBREug?feature=share)](https://youtube.com/shorts/IUnf1pBREug?feature=share)
 
-[![horizon vr](https://www.youtube.com/shorts/r65_TiJjsB0)](https://www.youtube.com/shorts/r65_TiJjsB0)
-
 ## Mise en espace
 
 La salle est située à la fin du couloir orange avec des LEDs qui entourent chaque porte. La pièce est entièrement couvert de carreaux blancs sur le sol, le mur, le plafond, les sièges cubiques et un grand panneau lumineux. Les casques et la manette de VR sont placés sur les sièges cubiques, tandis qu'une étagère qui contient des manettes supplémentaires est disponible en cas de problème. De plus, un support de câble fixé au plafond permet de cacher les excédents de câble provenant du casque VR.
 
 ![Schema](Media/schema.PNG)
+[![horizon vr](https://www.youtube.com/shorts/r65_TiJjsB0)](https://www.youtube.com/shorts/r65_TiJjsB0)
 
 ## Composantes et techniques
 
 - Logiciels VR
 - Les jeux/documentaires
-- - Ordinateurs
+- Ordinateurs
 
 ![ordi](Media/ecran_ordi.jpg)
 
