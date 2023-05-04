@@ -4,7 +4,7 @@
 
 Horizon VR
 
-![Affiche_mycelium](media/Mycelium_affiche.jpg)
+![Affiche_horizonvr](Media/affiche_horizon_vr.jpg)
 
 ## Lieu de mise en exposition
 
