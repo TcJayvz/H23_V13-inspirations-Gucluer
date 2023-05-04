@@ -66,25 +66,23 @@ La salle est située à la fin du couloir orange avec des LEDs qui entourent cha
 
 - Logiciels VR
 - Les jeux/documentaires
+- - Ordinateurs
 
-![Logiciel](media/Echomarine_logiciel.PNG)
-
-![composante](media/Echomarine_les_trois_projecteurs.jpg)
+![ordi](Media/ecran_ordi.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 
 - Casques et mannettes VR (6)
 - Les sièges cubiques (6)
 - La salle couvert de carreaux blancs
-- Ordinateurs
 - Le panneau LED (motif carree)
 - Support à cable (6)
 
-![composante](Media/cache_cable.jpg)
-
 ![lumineux](Media/plafond_kusunda_panneaux_lumineux.jpg)
 
-![ordi](Media/ecran_ordi.jpg)
+![composante](Media/cache_cable.jpg)
+
+![casque](Media/derriere_kusunda.jpg)
 
 ## Expérience vécue
 
