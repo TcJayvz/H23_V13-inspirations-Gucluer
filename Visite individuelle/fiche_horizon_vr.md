@@ -52,9 +52,9 @@ Interactive et immersive
 
 ![reconnaissance_vocale](Media/kusunda_parler.jpg)
 
-[![kusunda reconnaissance vocale](https://www.youtube.com/shorts/WCgniecBKQY)](https://www.youtube.com/shorts/WCgniecBKQY)
+[![kusunda reconnaissance vocale](https://youtube.com/shorts/IUnf1pBREug?feature=share)](https://youtube.com/shorts/IUnf1pBREug?feature=share)
 
-[![horizon vr](https://youtube.com/shorts/SXMx00EYUBM)](https://youtube.com/shorts/SXMx00EYUBM)
+[![horizon vr](https://www.youtube.com/shorts/r65_TiJjsB0)](https://www.youtube.com/shorts/r65_TiJjsB0)
 
 ## Mise en espace
 
