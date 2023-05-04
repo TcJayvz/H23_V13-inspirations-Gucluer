@@ -12,7 +12,7 @@ Horizon VR
 
 Centre PHI, 315 Rue Saint-Paul O, au Centre d'art à Montréal
 
-![Moi_devant_lentre](mMedia/moi.jpg)
+![Moi_devant_lentre](Media/moi.jpg)
 
 ## Type d'exposition
 
